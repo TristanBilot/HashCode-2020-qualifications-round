@@ -1,3 +1,3 @@
-# hash_code
-
-<img src="input/image.jpeg"/>
+<p align="center">
+  <img src="input/image.jpeg"/>
+</p>
